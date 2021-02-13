@@ -33,3 +33,17 @@
 [youtube]: https://youtube.com/COKLIMITE
 [instagram]: https://instagram.com/onlyfarisxlua
 [telegram]: https://t.me/OnlyFaris
+
+<br />
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
+
+---
+
+
