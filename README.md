@@ -16,31 +16,7 @@
 <br />
 
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Mod Menu Pubg XLua App Flash Ultra,TimeMachine,FlyCars,Aimbot,Esp,Underground, Teleport,FlyPlayer](https://www.youtube.com/watch?v=a1Rvn_xRK_Y)
-- [Mod Menu Cheat Line Rangers Terbaru - Auto Kill - Work Pvp - Infinity Rangers - Damage Up](https://www.youtube.com/watch?v=sK4PCTFHaC4)
-- [MOD MENU PUBG X-Lua App v1.2 -  Wallhack Chams , Fast Bullet / Shoot ,Fly Car , 6 Color Fog, Recoil](https://www.youtube.com/watch?v=A9MRL4OrgQw)
-- [MOD MENU PUBG 1.1 X-Lua App - Fly Car , 6 Color Fog, Esp Training , Bullet Track](https://www.youtube.com/watch?v=12gFauB5NBI)
-- [Mod Menu PUGB Terbaru - Loader V5 - Bypass,Full Safe,Full Fitur XLua App](https://www.youtube.com/watch?v=XdBtbDt4Xmg)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/COKLIMITE)
-
----
-
-
-### Languages and Tools:
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
-[<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />](https://www.lua.org)
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />](https://www.java.com)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://wikipedia.org/wiki/C++)
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />](https://www.php.net/)
-
+###
 
 
 
