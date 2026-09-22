@@ -26,7 +26,6 @@
 
 
 [youtube]: https://youtube.com/xluaapp
-[instagram]: https://instagram.com/onlyfarisxlua
 [telegram]: https://t.me/OnlyFaris
 
 
